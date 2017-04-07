@@ -693,7 +693,7 @@
 										</resource>
 									</resources>
 								</configuration>
-								<inherited></inherited>
+								<!--<inherited></inherited>-->
 							</execution>
 						</executions>
 					</plugin>
